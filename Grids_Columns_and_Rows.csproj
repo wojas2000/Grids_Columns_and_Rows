@@ -7,4 +7,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+
+
+  <ItemGroup>
+    <SplashScreen Include="Images\Image1.png" />
+  </ItemGroup>
+
 </Project>
